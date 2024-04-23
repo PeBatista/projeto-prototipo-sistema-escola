@@ -2,7 +2,7 @@
 
 Bem-vindo ao repositório do Projeto Integrador 2, onde estamos desenvolvendo um Sistema de Gestão Escolar abrangente e funcional.
 
-![Senac Logo](https://logodownload.org/wp-content/uploads/2014/10/senac-logo-0.png)
+![Senac Logo]([https://logodownload.org/wp-content/uploads/2014/10/senac-logo-0.png](https://tse3.mm.bing.net/th/id/OIP.tml5NwSEeMOCTq3zF8rq2gHaHa?pid=ImgDet&w=204&h=204&c=7))
 
 ## Descrição do Projeto
 
