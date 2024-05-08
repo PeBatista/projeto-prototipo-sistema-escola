@@ -5,6 +5,10 @@ Bem-vindo ao repositório do Projeto Integrador 2, onde estamos desenvolvendo um
 ![UML](Casos%20de%20Uso%20Projeto%20Integrador.png)
 ![Casos de Uso](UML%20Projeto%20Integrador.png)
 
+## Link para o Projeto dentro do Figma
+
+- FigmaProject: [FigmaProject](https://www.figma.com/file/PRS0xLXNDM3aNuHBNARfB6/PI---POO?type=design&node-id=0%3A1&mode=design&t=6dKz2CXJCKWjz3fy-1)
+  
 ## Descrição do Projeto
 
 Este projeto tem como objetivo criar um sistema de gestão escolar que permita o cadastro e gerenciamento de alunos, professores, fornecedores, entre outros, de acordo com as necessidades da instituição educacional.
