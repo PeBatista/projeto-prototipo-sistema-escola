@@ -43,7 +43,7 @@ Para contribuir com o projeto, siga os seguintes passos:
 
 Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato conosco através dos seguintes meios:
 
-- Email: [pedromendonca553@gmail.com](mailto:pedromendoca553l@gmail.com)
+- Email: [pedromendoca553@gmail.com](mailto:pedromendoca553l@gmail.com)
 - GitHub: [PeBatista](https://github.com/PeBatista)
 
 Vamos trabalhar juntos para tornar este projeto um sucesso!
