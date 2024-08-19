@@ -45,6 +45,7 @@ Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato conosco a
 
 - Email: [pedromendoca553@gmail.com](mailto:pedromendoca553l@gmail.com)
 - GitHub: [PeBatista](https://github.com/PeBatista)
+[
 
 Vamos trabalhar juntos para tornar este projeto um sucesso!
 
