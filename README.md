@@ -1,4 +1,4 @@
-# Projeto Integrador 4 : Sistema de Gestão Hospitalar 
+# Projeto Integrador 4 : Sistema de Gestão Hospitalar
 
 Bem-vindo ao repositório do Projeto Integrador 2, onde estamos desenvolvendo um Sistema de Gestão Hospitalar abrangente e funcional.
 
