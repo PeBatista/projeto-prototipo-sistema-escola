@@ -21,7 +21,7 @@ Neste repositório, você encontrará os protótipos funcionais da interface do 
 - Cadastro de Pessoa Jurídica
 - Cadastro de Doutores 
 - Cadastro de Consultas 
-- Cadastro de Pacientes 
+- Cadastro de Pacientes
 
 Os protótipos foram criados utilizando a ferramenta Figma, refletindo fielmente o que foi modelado anteriormente.
 
